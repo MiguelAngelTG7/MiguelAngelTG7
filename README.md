@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey there, I’m Miguel Ángel Torres Gallardo (Migz)
+# 👋 Hey there, I’m Miguel Ángel
 
 <p align="center">
-  <img src="https://i.giphy.com/media/hKdDwtTZ6gD0AS7etL/giphy.gif" width="250" alt="Aletheia Logo"/>
+  <img src="https://i.giphy.com/media/hKdDwtTZ6gD0AS7etL/giphy.gif" width="250" alt="Crazy Coding Robot"/>
 </p>
 
 ## 🚀 About Me  
 I’m **Miguel Ángel Torres Gallardo**, also known as **Migz** — a passionate **Full Stack Developer** with a heart for technology, education, and impact.  
 I believe in using technology not just to build apps, but to **empower people**. My mission is to make tech more **accessible**, helping others improve their quality of life through tools like **English for Everyone, AI for Everyone, and Startups for Everyone**.  
 
-✨ Fun fact: When I’m not coding, you might find me teaching, creating music, or exploring theology & philosophy.
+✨ Fun fact: When I’m not coding, you might find me creating music or writing.
 
 ---
 
