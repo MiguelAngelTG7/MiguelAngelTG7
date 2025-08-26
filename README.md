@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hey there, I’m Miguel Ángel Torres Gallardo (Migz)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="Coding Robot"/>
+  <img src="https://giphy.com/gifs/blife-protocol-bliffy-hKdDwtTZ6gD0AS7etL" width="250" alt="Coding Robot"/>
 </p>
 
 ## 🚀 About Me  
