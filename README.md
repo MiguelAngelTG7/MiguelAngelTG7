@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hey there, I’m Miguel Ángel Torres Gallardo (Migz)
 
-![Profile Banner]([https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJ4cWM2cmZ4dzJjczRodncxZXlxNTVoOWRwem4yYWRqbHM5cnl1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hKdDwtTZ6gD0AS7etL/giphy.gif])
+![Profile Banner]([https://giphy.com/gifs/blife-protocol-bliffy-hKdDwtTZ6gD0AS7etL])
 
 ## 🚀 About Me  
 I’m **Miguel Ángel Torres Gallardo**, also known as **Migz** — a passionate **Full Stack Developer** with a heart for technology, education, and impact.  
