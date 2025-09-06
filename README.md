@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hey there, I’m Miguel Ángel
 
 <p align="center">
-  <img src="[https://www.podfeet.com/blog/wp-content/uploads/2021/09/GitHub-Copilot-logo-1040x650.png]"/>
+  <img src="https://www.podfeet.com/blog/wp-content/uploads/2021/09/GitHub-Copilot-logo-1040x650.png" width="400"/>
 </p>
 
 ## 🚀 About Me  
