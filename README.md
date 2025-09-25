@@ -55,6 +55,7 @@ I believe in using technology not just to build apps, but to **empower people**.
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Bash](https://skillicons.dev/icons?i=bash)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Figma](https://skillicons.dev/icons?i=figma)
