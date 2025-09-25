@@ -49,6 +49,16 @@ I believe in using technology not just to build apps, but to **empower people**.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![React](https://skillicons.dev/icons?i=react) 
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Python](https://skillicons.dev/icons?i=python) 
+![Django](https://skillicons.dev/icons?i=django) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
